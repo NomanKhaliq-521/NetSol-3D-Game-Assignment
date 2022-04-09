@@ -15,12 +15,9 @@ Core Requirement:
                   Forward and Backward both to lock helicopter in current pose :)
                   Backward and left or right to make 360 degree back flip :)
 
-2-   ** DONE **   
-     Placed Enemies on top of the buildings using Building Api as mentioned in documents :)
-3-   ** DONE **   
-     Placed Enemies on roads using mention script method but just changed the created object's tag to make it act as enemy however script was a bit complex                   :)
-4-   ** DONE **   
-     Helicopter fire bullets at enemies and make them disappear and then they respawn after fixed time :)
+2-   ** DONE **   Placed Enemies on top of the buildings using Building Api as mentioned in documents :)
+3-   ** DONE **   Placed Enemies on roads using mention script method but just changed the created object's tag to make it act as enemy however script was a bit complex                   :)
+4-   ** DONE **   Helicopter fire bullets at enemies and make them disappear and then they respawn after fixed time :)
                   Also implemented enemy locking mechanism :)
      
 
