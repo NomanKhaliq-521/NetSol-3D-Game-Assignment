@@ -2,7 +2,7 @@
 
 
 *****Completed 4/4 Core Requirements
-*****Completed 3/2 Bonus Requirements
+*****Completed 2/3 Bonus Requirements
 
 
 Core Requirement:
